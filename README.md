@@ -1,4 +1,5 @@
 # Vicsek Model Simulation – Active Matter
+![Vicsek Model Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJrNG50NG9vc3pmM2gwMW11bzY3NmkxMmJqYzltamtiZ2RicnJ0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3h3tVn3DL9NUPrSJnV/giphy.gif)
 
 ## Overview
 
@@ -95,6 +96,5 @@ we can observe **phase transitions** from disorder to order.
 
 T. Vicsek et al., Phys. Rev. Lett., 1995.
 Ginelli, F., The Physics of the Vicsek Model, SUPA, ICSMB and Department of Physics, King’s College, University of Aberdeen, Aberdeen AB24 3UE, United Kingdom, March 22, 2016.
-Active Matter and Collective Motion literatur
-git clone https://github.com/username/vicsek-model.git
+Active Matter and Collective Motion literature
 cd vicsek-model
